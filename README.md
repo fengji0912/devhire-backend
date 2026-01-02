@@ -38,7 +38,7 @@ npm install
 
 CREATE DATABASE devhire;
 
-## Update database credentials in src/app.module.ts:
+(Update database credentials in src/app.module.ts)
 
 ## 5. Start the backend
 npm run start:dev
