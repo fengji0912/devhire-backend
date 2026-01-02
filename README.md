@@ -1,6 +1,6 @@
 # DevHire Backend
 
-A simple recruitment backend system built with **NestJS** and **MySQL**, 
+A simple recruitment backend system built with **NestJS** and **MySQL** 
 
 ---
 
@@ -27,9 +27,11 @@ A simple recruitment backend system built with **NestJS** and **MySQL**,
 ### 1. Clone repository
 
 git clone https://github.com/yourusername/devhire-backend.git
+
 cd devhire-backend
 
 ## 2. Install dependencies
+
 npm install
 
 ## 3. Configure MySQL
@@ -40,5 +42,6 @@ CREATE DATABASE devhire;
 
 ## 5. Start the backend
 npm run start:dev
+
 
 Backend will run at: http://localhost:3000
